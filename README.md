@@ -4,7 +4,7 @@ I'm xbl4z3rr, a begginer programmer. I can code in C#, C++, Python, Java, JavaSc
 
 If you ever need help with Minecraft Programming, Discord Bot Development or anything else please feel free to join my discord below!
 
-Discord: xbl4z3r#2224 
+Discord: xbl4z3r#8840
 
 Discord Server: [Join Now](https://discord.gg/yaDnEVBQpz)
 
