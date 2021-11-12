@@ -12,7 +12,7 @@ E-Mail: xbl4z3r@hyperinc.xyz
 
 Website: [Click Here](https://hyperinc.xyz)
 
-![xbl4z3rr's GitHub stats](https://github-readme-stats.vercel.app/api?username=xbl4z3rr&show_icons=true&theme=vision-friendly-dark)
+![xbl4z3rr's GitHub stats](https://github-readme-stats.vercel.app/api?username=xbl4z3rr&show_icons=true&theme=dark)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xbl4z3rr&theme=vision-friendly-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xbl4z3rr&theme=dark)
