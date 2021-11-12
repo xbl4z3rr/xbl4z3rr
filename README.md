@@ -7,7 +7,7 @@
   <img align="left" alt="xbl4z3r's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+![](https://visitor-badge.glitch.me/badge?page_id=xbl4z3rr/xbl4z3rr)
 
 <br />
 
