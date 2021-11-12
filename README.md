@@ -1,4 +1,4 @@
-# Hi! 👋
+### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 I'm xbl4z3rr, a begginer programmer. I can code in C#, C++, Python, Java, JavaScript and I know a bit of HTML and CSS.
 
